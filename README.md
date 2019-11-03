@@ -24,7 +24,7 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 - [x] How to use expanded to make widgets adapt to screen dimensions.
 - [x] Understand and use string interpolation.
 - [x] Learn about basic dart programming concepts such as data types and functions.
-- [ ] Code and use gesture controls.
+- [x] Code and use gesture controls.
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
